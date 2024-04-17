@@ -1,9 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T16:34:08.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.5" etag="cFlYPBj1onuzTIBo6lYa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T20:45:30.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="JPhD-l7EJjgILato4CiL" version="24.2.5" type="github">
   <diagram name="Page-1" id="7VGLKOKT5dSzX80ySC7q">
-    <mxGraphModel>
+    <mxGraphModel dx="934" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="390" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#3399FF;fillColor=#3399FF;" vertex="1" parent="OYTl02B_hHZIrlQEB5hF-5">
+          <mxGeometry width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-3" value="&lt;font color=&quot;#ffffff&quot;&gt;A0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OYTl02B_hHZIrlQEB5hF-5">
+          <mxGeometry x="180" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-4" value="&lt;font style=&quot;font-size: 19px;&quot; color=&quot;#ffffff&quot;&gt;Мобильное приложение&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OYTl02B_hHZIrlQEB5hF-5">
+          <mxGeometry x="75" y="100" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-8" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;Политика&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;конфиденциальности&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-9" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;Образовательные&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;и псхологические&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;критерии&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-11" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;Образовательные материалы&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-12" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;Желание пользователя&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="520" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-13" value="&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;Отчеты о прогрессе пользователя&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-14" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;Образовательные&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;стандарты&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-15" value="&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;Пользователь&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="720" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-17" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;Результаты&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;теста&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;(интересы пользователя)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="460" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-18" value="&lt;div&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;Индивидуальный учебный план&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="500" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-19" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="445.5" as="sourcePoint" />
+            <mxPoint x="300" y="444.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-20" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="501" as="sourcePoint" />
+            <mxPoint x="300" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="561" as="sourcePoint" />
+            <mxPoint x="300" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-22" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="461" as="sourcePoint" />
+            <mxPoint x="780" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-23" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="540" as="sourcePoint" />
+            <mxPoint x="780" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-24" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#3399FF;entryX=0.216;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.5" y="270" as="sourcePoint" />
+            <mxPoint x="319.5" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-26" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#3399FF;entryX=0.216;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.5" y="190" as="sourcePoint" />
+            <mxPoint x="389.5" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-27" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#3399FF;entryX=0.216;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-28" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="740" as="sourcePoint" />
+            <mxPoint x="369.5" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-30" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#3399FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="740" as="sourcePoint" />
+            <mxPoint x="490" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-32" value="&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;Мобильное приложение&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;-apple-system, Roboto, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Microsoft YaHei, Meiryo UI, Meiryo, Arial Unicode MS, sans-serif&quot; color=&quot;#111111&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(247, 247, 247);&quot;&gt;(система)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-37" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#3399FF;entryX=0.216;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="190" as="sourcePoint" />
+            <mxPoint x="530" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYTl02B_hHZIrlQEB5hF-40" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Критерии оценки и завершения курсов&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
